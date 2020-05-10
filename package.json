@@ -1,0 +1,22 @@
+{
+  "name": "expresserrormiddleware",
+  "version": "1.0.0",
+  "description": "Learning Express Middleware Error Handling",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthony32773/ExpressErrorMiddleware.git"
+  },
+  "author": "Anthony Di Rito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthony32773/ExpressErrorMiddleware/issues"
+  },
+  "homepage": "https://github.com/anthony32773/ExpressErrorMiddleware#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
